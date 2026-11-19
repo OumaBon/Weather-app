@@ -1,0 +1,12 @@
+# Virtual environment (rebuilt from requirements.txt)
+.venv/
+
+# Secrets and local settings
+.env
+
+# Python's automatic cache files
+__pycache__/
+*.pyc
+
+# Test tool caches
+.pytest_cache/
